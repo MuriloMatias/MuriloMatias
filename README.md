@@ -6,7 +6,6 @@
 I am currently a Software Engineering student at UFMS(Federal University of Mato Grosso do Sul). I started studying software development in 2021 when I started college and since the I've been more passionate about technology every day. 
 
 </div>
-</br>
 <hr/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-matias/)
