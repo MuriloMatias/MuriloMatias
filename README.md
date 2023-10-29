@@ -22,7 +22,8 @@ I am currently a Software Engineering student at UFMS(Federal University of Mato
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div><br/>
 <div style="display: flex" align="center">
-
+    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMatias&layout=compact)
 ![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloMatias&show_icons=true&theme=onedark)
 
 </div>
